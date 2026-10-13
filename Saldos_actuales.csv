@@ -1,0 +1,6 @@
+﻿Nombre;Ciudad;Tipo_cuenta;saldo_inicial;total_depositos;total_retiros;saldo_actual
+Rosa Diaz;Lima;Ahorros;2200;0;300;1900
+Maria Rojas;Lima;Ahorros;800.25;0;150;650.25
+Luis Perez;Arequipa;Corriente;3200;1000;250;3950
+Jose Flores;Trujillo;Corriente;5100.75;800;0;5900.75
+Ana Torres;Lima;Ahorros;1500.5;500;200;1800.5
